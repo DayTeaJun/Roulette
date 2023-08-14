@@ -1,8 +1,6 @@
+import Roulette from "./components/Roulette";
+
 function App() {
-  return (
-    <div>
-      hello world
-    </div>
-  );
+  return <Roulette />;
 }
 export default App;
